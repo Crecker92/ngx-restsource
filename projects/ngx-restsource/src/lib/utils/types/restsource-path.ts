@@ -1,0 +1,1 @@
+export type RestsourcePath = string | number | Array<string | number>;
